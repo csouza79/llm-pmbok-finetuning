@@ -7,11 +7,11 @@ Python 3.10+
 GPU com pelo menos 16 GB de VRAM (ou usar Colab/Paperspace)
 
 ## Instalar dependências:
-bash
+```bash
 pip install transformers datasets peft accelerate bitsandbytes
 
 ## Requisitos
-bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
