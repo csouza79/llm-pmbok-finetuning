@@ -9,13 +9,14 @@ GPU com pelo menos 16 GB de VRAM (ou usar Colab/Paperspace)
 ## Instalar dependências:
 ```bash
 pip install transformers datasets peft accelerate bitsandbytes
+```
 
 ## Requisitos
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
+```
 
 ## Uso
 
@@ -25,10 +26,12 @@ pip install -r requirements.txt
 ```bash
 cd scripts
 python pdf_to_instruct.py
+```
 
 ## Rodar o treinamento
 
 Na raiz do projeto:
 
-bash
+```bash
 python train.py
+```
