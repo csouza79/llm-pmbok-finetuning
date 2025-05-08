@@ -1,0 +1,16 @@
+{"instruction": "Explique sobre: O Departamento de publicações do PMI...", "input": "", "output": "O Departamento de publicações do PMI agradece o envio de correções e comentários sobre seus livros. Sinta-"}
+{"instruction": "Explique sobre: se à vontade para enviar comentários...", "input": "", "output": "se à vontade para enviar comentários sobre erros tipográficos, de formatação ou outros erros. Simplesmente"}
+{"instruction": "Explique sobre: faça uma cópia da página relevante...", "input": "", "output": "faça uma cópia da página relevante do livro, marque o erro e envie para: Book Editor [Editor de livros], PMI"}
+{"instruction": "Explique sobre: Para pedir informações sobre descontos para...", "input": "", "output": "Para pedir informações sobre descontos para fins educacionais ou de revenda, entre em contato com o PMI"}
+{
+  "instruction": "O que é o Guia PMBOK e qual sua importância na profissão de gerenciamento de projetos?",
+  "output": "O Guia PMBOK (Project Management Body of Knowledge) é uma norma reconhecida que documenta práticas, métodos e processos amplamente aceitos no gerenciamento de projetos. Ele serve como padrão formal para a profissão, semelhante ao que ocorre em áreas como medicina ou contabilidade. Seu conteúdo evolui a partir das boas práticas adotadas por profissionais experientes da área, tornando-se uma referência essencial para a condução eficaz de projetos."
+}
+{
+  "instruction": "Como está estruturado o Guia PMBOK® e o que é abordado em seus capítulos iniciais?",
+  "output": "O Guia PMBOK® começa com dois capítulos introdutórios que apresentam os conceitos fundamentais do gerenciamento de projetos. O Capítulo 3 estabelece o padrão para o gerenciamento de projetos, descrevendo os processos, entradas e saídas considerados boas práticas na maioria dos projetos. Já os Capítulos de 4 a 12 expandem essas informações ao detalhar as ferramentas, técnicas, entradas e saídas relacionadas aos diversos aspectos da gestão de projetos."
+}
+{
+  "instruction": "Qual é o propósito do Guia PMBOK® e que tópicos ele aborda no início do documento?",
+  "output": "O Guia PMBOK® tem como propósito fornecer diretrizes para o gerenciamento de projetos individuais. Ele define conceitos fundamentais do gerenciamento de projetos, apresenta o ciclo de vida de um projeto e os processos envolvidos. Nos primeiros tópicos, o guia cobre temas como a definição de projeto, o papel do gerente de projetos, a diferença entre gerenciamento de projetos e operações, além das relações entre projetos, programas e portfólios. Também aborda fatores ambientais internos e externos que influenciam o sucesso de um projeto."
+}
