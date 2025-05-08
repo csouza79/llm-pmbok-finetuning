@@ -35,3 +35,10 @@ Na raiz do projeto:
 ```bash
 python train.py
 ```
+
+## Executar
+No terminal:
+
+```bash
+python inference.py
+```
