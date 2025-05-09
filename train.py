@@ -15,7 +15,7 @@ from peft import get_peft_model, LoraConfig, TaskType
 import torch
 
 from huggingface_hub import login
-login("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")
+login("token")
 
 # === CONFIGURAÇÕES ===
 #MODEL_NAME = "mistralai/Mistral-7B-v0.1"
